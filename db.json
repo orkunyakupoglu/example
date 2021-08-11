@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "amount": 1000,
+      "accountNo": "TR46546212121212121212121"
     }
   ],
   "profile": {
