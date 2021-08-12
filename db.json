@@ -1,17 +1,8 @@
-menu:[
-  {
-    "index":1 ,
-    "title": "Raporlar",
-    "subtitle":"Mesaj Sorgulama"
-  },
-  {
-    "index":2 ,
-    "title": "Raporlar",
-    "subtitle":"Bakiye Sorgulama"
-  },
-  {
-    "index":3 ,
-    "title": "Raporlar",
-    "subtitle":"Katılımcı Sorgulama"
-  }
-]
+{"menu":
+  [
+    {"index":1,"title":"Raporlar","subtitle":"Mesaj Sorgulama"},
+    {"index":2,"title":"Raporlar","subtitle":"Bakiye Sorgulama"},
+    {"index":3,"title":"Raporlar","subtitle":"Katılımcı Sorgulama"}
+  
+  ]
+}
