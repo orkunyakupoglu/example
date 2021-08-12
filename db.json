@@ -1,11 +1,17 @@
-{
-  "posts": [
-    {
-      "amount": 1000,
-      "accountNo": "TR46546212121212121212121"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "index":1 ,
+    "title": "Raporlar",
+    "subtitle":"Mesaj Sorgulama"
+  },
+  {
+    "index":2 ,
+    "title": "Raporlar",
+    "subtitle":"Bakiye Sorgulama"
+  },
+  {
+    "index":3 ,
+    "title": "Raporlar",
+    "subtitle":"Katılımcı Sorgulama"
   }
-}
+]
