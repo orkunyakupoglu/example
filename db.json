@@ -1,8 +1,8 @@
 {"menu":
   [
     {"index":1,"title":"Raporlar","subtitle":"MesajSorgulama","screenCode":"<MesajSorgulama/>"},
-    {"index":2,"title":"Raporlar","subtitle":"BakiyeSorgulama","<BakiyeSorgulama/>"},
-    {"index":3,"title":"Raporlar","subtitle":"KatılımcıSorgulama","<KatılımcıSorgulama/>"}
+    {"index":2,"title":"Raporlar","subtitle":"BakiyeSorgulama","screenCode":"<BakiyeSorgulama/>"},
+    {"index":3,"title":"Raporlar","subtitle":"KatılımcıSorgulama","screenCode":"<KatılımcıSorgulama/>"}
   
   ]
 }
